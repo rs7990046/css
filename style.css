@@ -1,0 +1,14 @@
+ *{
+            margin: 0px auto;
+        }
+        
+        h1{
+            background: #0e6fd9;
+            color: #fff;
+            width: 500px;
+            margin-top: 20%;
+            padding: 25px;
+            text-align: center;
+            line-height: 54px;
+            border-radius: 5px;
+        }
